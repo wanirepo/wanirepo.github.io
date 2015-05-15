@@ -28,7 +28,7 @@
 }
 
 .markdown-body h1 {
-  font-size: 2em;
+  font-size: 1.6em;
   margin: 0.67em 0;
 }
 
@@ -131,27 +131,27 @@
 }
 
 .markdown-body h1 {
-  font-size: 30px;
+  font-size: 24px;
 }
 
 .markdown-body h2 {
-  font-size: 21px;
+  font-size: 17px;
 }
 
 .markdown-body h3 {
-  font-size: 16px;
+  font-size: 13px;
 }
 
 .markdown-body h4 {
-  font-size: 14px;
+  font-size: 11px;
 }
 
 .markdown-body h5 {
-  font-size: 12px;
+  font-size: 10px;
 }
 
 .markdown-body h6 {
-  font-size: 11px;
+  font-size: 9px;
 }
 
 .markdown-body blockquote {
